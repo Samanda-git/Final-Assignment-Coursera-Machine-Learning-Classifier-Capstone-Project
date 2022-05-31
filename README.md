@@ -1,1 +1,1 @@
-# Final-Assignment-Cousera-Machine-Learning-Classifier-Capstone-Project
+# Final-Assignment-Coursera-Machine-Learning-Classifier-Capstone-Project
